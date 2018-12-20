@@ -1,0 +1,24 @@
+{
+  "name": "@nubestra/create-react-component",
+  "version": "1.0.0",
+  "description": "Create all kinds of components from the command line, you can pass parameters to create from different components from the library. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "create-react-component"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "automate",
+    "react-component",
+    "create-react-component",
+    "command-line",
+    "bash"
+  ],
+  "author": "Israel Ortiz Cortés",
+  "license": "ISC"
+}
